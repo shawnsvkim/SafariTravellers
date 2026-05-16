@@ -1,0 +1,4 @@
+# Visual Studio cache and hidden files
+.vs/
+**/ .vs/
+*.vsidx
